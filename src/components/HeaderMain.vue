@@ -6,8 +6,8 @@
           <!-- Area untuk nama/logo app -->
           <div class="flex justify-center">
             <router-link to="/" class="flex items-center px-2">
-              <span class="text-blue-400 text-2xl">kosakata</span>
-              <span class="font-semibold text-blue-500 text-3xl">Q</span>
+              <span class="text-blue-400 text-2xl">Quis</span>
+              <span class="font-semibold text-blue-500 text-3xl">AL-QUR'AN</span>
             </router-link>
           </div>
           <!-- Area untuk deskripsi app -->
