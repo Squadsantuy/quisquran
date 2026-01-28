@@ -9,11 +9,11 @@
       </a>
       <span class="py-4 text-sm">by</span>
       <a
-        href="https://play.alza.web.id"
+        href="https://idulfitri.web.id"
         class="pt-4 hover:underline px-1 text-sm"
         target="_blank"
         rel="noopener"
-        >Alza Interactive</a
+        >IDUL-FITRI</a
       >
     </div>
     <ul
@@ -21,7 +21,7 @@
     >
       <li>
         <a
-          href="https://github.com/ewinsutriandi/kosakataQ"
+          href="https://github.com/Squadsantuy/quisquran"
           class="mr-4 hover:underline md:mr-6"
           target="_blank"
           rel="noopener"
