@@ -4,8 +4,8 @@
   >
     <div class="flex justify-center">
       <a href="#" class="flex items-center py-2 mx-2">
-        <span class="text-blue-400 text-md">kosakata</span>
-        <span class="font-semibold text-blue-500 text-md">Q</span>
+        <span class="text-blue-400 text-md">Quis-</span>
+        <span class="font-semibold text-blue-500 text-md">Quran</span>
       </a>
       <span class="py-4 text-sm">by</span>
       <a
